@@ -1,45 +1,66 @@
-<!-- TABELA PRINCIPAL COM MOLDURAS LATERAIS -->
-<table>
+<!-- TABELA PRINCIPAL COM MATRIX NAS LATERAIS -->
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<!-- MOLDURA ESQUERDA -->
-<td width="80" align="center" valign="top">
-<pre>
-🐍
-│
-░
-▒
-▓
-█
-▓
-▒
-░
-│
-🐍
-│
-░
-▒
-▓
-█
-▓
-▒
-░
-│
-🐍
-│
-░
-▒
-▓
-█
-▓
-▒
-░
-│
-🐍
-</pre>
+
+<!-- MOLDURA ESQUERDA - MATRIX RAIN -->
+<td width="100" align="left" valign="top" style="font-family: 'Courier New', monospace; font-size: 11px; line-height: 12px; color: #00ff00; background: #000;">
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<!-- GIF ANIMADO MATRIX NA LATERAL ESQUERDA -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+</div>
+
 </td>
 
+
 <!-- CONTEÚDO CENTRAL -->
-<td valign="top">
+<td valign="top" style="padding: 0 25px; background: linear-gradient(135deg, #000000 0%, #001100 50%, #000000 100%);">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=700&color=00FF00&center=true&vCenter=true&width=650&height=50&lines=%24+whoami+%3E+BHUUUH;~%24+nmap+-sS+-Pn+?5?.?4?.3.2;~%24+./ghostinject+--stealth;~%24+tail+-f+logs/malware.log" />
@@ -49,9 +70,9 @@
 <pre>
 ┈┈┈☆☆☆☆☆☆┈┈┈
 ┈┈╭┻┻┻┻┻┻┻┻┻╮┈┈
-┈┈┃000000000┃┈┈
+┈┈┃<span style="color:#00ff00">000000000</span>┃┈┈
 ┈╭┻━━━━━━━━━┻╮┈
-┈┃01010010101┃┈
+┈┃<span style="color:#00ff00">01010010101</span>┃┈
 ┈┗━━━━━━━━━━━┛┈ 
 </pre>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=700&color=00FF00&center=true&vCenter=true&width=550&height=35&lines=Reverse+Engineer;Malware+Researcher;Security+Analyst;Low-Level+Exploration" />
@@ -158,49 +179,5 @@ Layer 3 - Underground: ?0?0-?0?0 research and implants
 
 </td>
 
-<!-- MOLDURA DIREITA -->
-<td width="80" align="center" valign="top">
-<pre>
-🐍
-│
-░
-▒
-▓
-█
-▓
-▒
-░
-│
-🐍
-│
-░
-▒
-▓
-█
-▓
-▒
-░
-│
-🐍
-│
-░
-▒
-▓
-█
-▓
-▒
-░
-│
-🐍
-</pre>
-</td>
 </tr>
 </table>
-
-
-
-<!-- ASSINATURA -->
-<div align="center">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=30&lines=🐍+SERPENT+HACKER+FRAMEWORK+🐍;🐍+SLITHERING+THROUGH+THE+CODE+🐍;🐍+DIGITAL+VENOM+INJECTION+🐍" />
-</div>
