@@ -68,12 +68,10 @@
 
 <h1 align="center">
 <pre>
-┈┈┈☆☆☆☆☆☆┈┈┈
-┈┈╭┻┻┻┻┻┻┻┻┻╮┈┈
-┈┈┃<span style="color:#00ff00">000000000</span>┃┈┈
-┈╭┻━━━━━━━━━┻╮┈
-┈┃<span style="color:#00ff00">01010010101</span>┃┈
-┈┗━━━━━━━━━━━┛┈ 
+  .-------..___  
+  '-._     :_.-' 
+      ) _ (      
+     '-' '-'       
 </pre>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=700&color=00FF00&center=true&vCenter=true&width=550&height=35&lines=Reverse+Engineer;Malware+Researcher;Security+Analyst;Low-Level+Exploration" />
 </h1>
