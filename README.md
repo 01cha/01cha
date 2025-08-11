@@ -53,7 +53,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1;1+0+0;0+1+0;1+1+1;0+0+0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=10&duration=200&pause=0&color=00FF00&center=false&vCenter=false&multiline=true&repeat=true&width=80&height=150&lines=1+0+1;0+1+0;1+1+0;0+0+1;1+0+1;0+1+1" />
 </div>
 
 </td>
@@ -63,7 +63,7 @@
 <td valign="top" style="padding: 0 25px; background: linear-gradient(135deg, #000000 0%, #001100 50%, #000000 100%);">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=700&color=00FF00&center=true&vCenter=true&width=650&height=50&lines=%24+whoami+%3E+BHUUUH;~%24+nmap+-sS+-Pn+?5?.?4?.3.2;~%24+./ghostinject+--stealth;~%24+tail+-f+logs/malware.log" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=700&color=00FF00&center=true&vCenter=true&width=650&height=50&lines=%24+w?o?m?+%3E+BHUUUH;~%24+???p+-sS+-Pn+?5?.?4?.3.2;~%24+./?????inject+--stealth;~%24+t?i?+-f+logs/ma0w0r0.log" />
 </p>
 
 <h1 align="center">
@@ -73,7 +73,7 @@
       ) _ (      
      '-' '-'       
 </pre>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=700&color=00FF00&center=true&vCenter=true&width=550&height=35&lines=Reverse+Engineer;Malware+Researcher;Security+Analyst;Low-Level+Exploration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=700&color=00FF00&center=true&vCenter=true&width=550&height=35&lines=Reverse+Engineer;Malware+Researcher;Security+Analyst;High-Level+Exploration" />
 </h1>
 
 ---
@@ -122,13 +122,13 @@
 ### 💣 Secret Projects & Research
 | Project            | Status     | Description                                      |
 | ------------------ | ---------- | ----------------------------------------------- |
-| **GhostInject** 👻 | 🔒 Privado | Injeção polimórfica com stealth syscall         |
-| **RustyLoader** ⚙️ | 🧪 PoC     | Loader em Rust com relocations & IAT bypass     |
-| **BlackKey** 🗝    | 🔒 Privado | Keylogger in-memory para análise comportamental |
-| **DarkBeacon** 📡  | 🧪 PoC     | C2 experimental com protocolos obscuros         |
-| **ShellWeGo** 🧬   | 🧪 PoC     | Manual mapping com direct syscalls              |
-| **EDRBuster** 🛡   | 🔒 Privado | Toolkit de bypass AV/EDR para pesquisa          |
-| **WinHookLab** 🔗  | 🧪 PoC     | API hooking detection e DLL proxy tests         |
+| **????Inject** 👻 |      🔒     | Injeção ???????????? ??? ???? ?????? ???         |
+| **????Loader** ⚙️ |      🧪     | Loader ?? ???? ??? ??????? ????????   ??? ??     |
+| **?????Key** 🗝    |      🔒     | Keylogger ??-?????? ?????? ????????????? ?????   |
+| **Dark??????** 📡  |     🧪     | ?? ???????????? ??? protocolos obscuros          |
+| **Shell????** 🧬   |     🔒     | Manual mapping ??? ??????? ??? ???               |
+| **???Buster** 🛡   |      🔒     | Toolkit de bypass ?????? ??? ??????             |
+| **Win???????** 🔗  |    🧪      | API ??????? ????????? ? DLL ????? ?????         |
 
 ---
 
