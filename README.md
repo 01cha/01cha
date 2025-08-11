@@ -1,3 +1,56 @@
+<!-- MOLDURA SUPERIOR - COBRAS ASCII -->
+<div align="center">
+  <pre>
+🐍═══════════════════════════════════════════════════════════════════════════════🐍
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██
+██  🐍              S E R P E N T   H A C K E R   F R A M E               🐍   ██
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██
+🐍═══════════════════════════════════════════════════════════════════════════════🐍
+  </pre>
+</div>
+
+<!-- TABELA PRINCIPAL COM MOLDURAS LATERAIS -->
+<table>
+<tr>
+<!-- MOLDURA ESQUERDA -->
+<td width="80" align="center" valign="top">
+<pre>
+🐍
+│
+░
+▒
+▓
+█
+▓
+▒
+░
+│
+🐍
+│
+░
+▒
+▓
+█
+▓
+▒
+░
+│
+🐍
+│
+░
+▒
+▓
+█
+▓
+▒
+░
+│
+🐍
+</pre>
+</td>
+
+<!-- CONTEÚDO CENTRAL -->
+<td valign="top">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=700&color=00FF00&center=true&vCenter=true&width=650&height=50&lines=%24+whoami+%3E+BHUUUH;~%24+nmap+-sS+-Pn+?5?.?4?.3.2;~%24+./ghostinject+--stealth;~%24+tail+-f+logs/malware.log" />
@@ -30,14 +83,11 @@
 > No More days Hunter | Malware Alchemist | Network Ghost
 ```
 
-
 🧠 Creation and analysis of undisclosed exploits | ⚙️ Reverse engineering of implants and rootkits | 
 🕵️‍♂️ Intelligence and collection on private networks / dark net | 🔬 Development of confidential PoCs for study | 
 🧬 Interest in obscure protocols and forgotten legacy systems | 
 
-
 ---
-
 
 ### 🛠 **Ferramentas & Arsenal**
 
@@ -59,9 +109,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Sniffing-blue)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Exploit%20Framework-darkblue)
 
-
 ---
-
 
 ### 💣 Secret Projects & Research
 | Project            | Status     | Description                                      |
@@ -74,10 +122,7 @@
 | **EDRBuster** 🛡   | 🔒 Privado | Toolkit de bypass AV/EDR para pesquisa          |
 | **WinHookLab** 🔗  | 🧪 PoC     | API hooking detection e DLL proxy tests         |
 
-
-
 ---
-
 
 ### 📡 Research Routine
 ```text
@@ -88,10 +133,7 @@
 [+] Network mapping and pivoting stealth
 ```
 
-
-
 ---
-
 
 ### 🌐 Layered Activity
 ```text
@@ -100,17 +142,12 @@ Layer 2 - Deep: Private tools for internal testing
 Layer 3 - Underground: ?0?0-?0?0 research and implants
 ```
 
-
 ---
-
-
 
 ### 📬 **Safe Contact**
 - 🧧 **ProtonMail:** [????????????@proton.me](mailto:???????????@proton.me)  
 - 🕸 **XMPP/Jabber:** ???@exploit.im  
 - 🌀 **Onion:** Key PGP
-
-
 
 ---
 
@@ -123,6 +160,58 @@ Layer 3 - Underground: ?0?0-?0?0 research and implants
 
 ---
 
+<p align="center"> 
+<img src="https://media.tenor.com/znvZZmR1t6oAAAAd/hacking-hacker.gif" width="500" /> 
+</p> 
+<p align="center"> 
+<i>"In the shadows, knowledge flows without censorship."</i> 
+</p>
+
+</td>
+
+<!-- MOLDURA DIREITA -->
+<td width="80" align="center" valign="top">
+<pre>
+🐍
+│
+░
+▒
+▓
+█
+▓
+▒
+░
+│
+🐍
+│
+░
+▒
+▓
+█
+▓
+▒
+░
+│
+🐍
+│
+░
+▒
+▓
+█
+▓
+▒
+░
+│
+🐍
+</pre>
+</td>
+</tr>
+</table>
 
 
-<p align="center"> <img src="https://media.tenor.com/znvZZmR1t6oAAAAd/hacking-hacker.gif" width="500" /> </p> <p align="center"> <i>"In the shadows, knowledge flows without censorship."</i> </p>
+
+<!-- ASSINATURA -->
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=30&lines=🐍+SERPENT+HACKER+FRAMEWORK+🐍;🐍+SLITHERING+THROUGH+THE+CODE+🐍;🐍+DIGITAL+VENOM+INJECTION+🐍" />
+</div>
